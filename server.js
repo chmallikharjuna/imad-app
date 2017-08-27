@@ -7,7 +7,7 @@ var config = {
     database: 'chmallikharjuna',
     host: 'db.imad.hasura-app.io',
     port: '5432',
-    password: process.env.DB_PASSWORD
+    password: 'db-chmallikharjuna-10113'
     
 };
 var app = express();
